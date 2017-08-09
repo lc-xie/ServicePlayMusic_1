@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="notification_voice_name_size">14sp</dimen>
+    <dimen name="notification_voice_author_size">10sp</dimen>
+</resources>
